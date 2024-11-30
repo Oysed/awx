@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: awx
+Version: 24.6.2.dev0+g94e5795dfc.d20241116
+Author: Red Hat
+Author-email: info@ansible.com
+License-File: LICENSE.md
